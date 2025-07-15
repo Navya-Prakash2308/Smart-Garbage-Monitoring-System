@@ -6,7 +6,7 @@ An Arduino-based system that monitors garbage level using an ultrasonic sensor a
 
 - 📏 Calculates distance of garbage using HC-SR04
 - 📊 Sends percentage full to Blynk app
-- 🔔 Buzzer alert when garbage exceeds warning level
+- 🔔 Buzzer alert when garbage exceeds warning level 
 - 🌐 WiFi-enabled using ESP8266
 - 📱 Remote monitoring on smartphone
 
